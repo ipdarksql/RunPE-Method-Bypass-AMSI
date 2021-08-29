@@ -1,0 +1,10 @@
+C:\Users\steven\source\repos\RunPE\RunPE\obj\Debug\RunPE.Resources.resources
+C:\Users\steven\source\repos\RunPE\RunPE\obj\Debug\RunPE.vbproj.GenerateResource.cache
+C:\Users\steven\source\repos\RunPE\RunPE\obj\Debug\RunPE.vbproj.CoreCompileInputs.cache
+C:\Users\steven\source\repos\RunPE\RunPE\bin\Debug\RunPE.dll.config
+C:\Users\steven\source\repos\RunPE\RunPE\bin\Debug\RunPE.dll
+C:\Users\steven\source\repos\RunPE\RunPE\bin\Debug\RunPE.pdb
+C:\Users\steven\source\repos\RunPE\RunPE\bin\Debug\RunPE.xml
+C:\Users\steven\source\repos\RunPE\RunPE\obj\Debug\RunPE.dll
+C:\Users\steven\source\repos\RunPE\RunPE\obj\Debug\RunPE.xml
+C:\Users\steven\source\repos\RunPE\RunPE\obj\Debug\RunPE.pdb

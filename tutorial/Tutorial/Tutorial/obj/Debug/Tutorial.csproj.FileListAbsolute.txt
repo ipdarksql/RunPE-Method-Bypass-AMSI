@@ -1,0 +1,8 @@
+C:\Users\steven\source\repos\Tutorial\Tutorial\bin\Debug\Tutorial.exe.config
+C:\Users\steven\source\repos\Tutorial\Tutorial\bin\Debug\Tutorial.exe
+C:\Users\steven\source\repos\Tutorial\Tutorial\bin\Debug\Tutorial.pdb
+C:\Users\steven\source\repos\Tutorial\Tutorial\obj\Debug\Tutorial.Properties.Resources.resources
+C:\Users\steven\source\repos\Tutorial\Tutorial\obj\Debug\Tutorial.csproj.GenerateResource.cache
+C:\Users\steven\source\repos\Tutorial\Tutorial\obj\Debug\Tutorial.csproj.CoreCompileInputs.cache
+C:\Users\steven\source\repos\Tutorial\Tutorial\obj\Debug\Tutorial.exe
+C:\Users\steven\source\repos\Tutorial\Tutorial\obj\Debug\Tutorial.pdb
